@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<structure>
+<type>lsystem</type>
+<axiom>A</axiom>
+<production><left>A</left><right>AB</right></production>
+<production><left>B</left><right>A</right></production>
+</structure>

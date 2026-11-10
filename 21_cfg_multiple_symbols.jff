@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<structure>
+<type>grammar</type>
+<production><left>S</left><right>aAb</right></production>
+<production><left>A</left><right>cA</right></production>
+<production><left>A</left><right>c</right></production>
+</structure>
